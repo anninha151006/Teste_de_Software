@@ -1,7 +1,7 @@
 
 Projeto desenvolvido para aplicar conceitos de Teste de Software, verificando se o sistema atende aos requisitos definidos e identificando possíveis erros e defeitos.
 
-Testes realizados (siqueira favor editar caso tenha usado outra ferramenta)
+Testes realizados
 * Java
 * NetBeans
 * PMD
