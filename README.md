@@ -8,4 +8,5 @@ Testes realizados
 * Git/GitHub
 * JUnit
 * Teste Manual
+* Postman
 Integrantes: 1.Anna Luisa Ferreira Guimarães 2.Lethicia Hikary Borges Hoshi 3.Giovanna Hermida de Araújo Vieria Siqueira 4.Erik Matheus Rodrigues Magalhães
